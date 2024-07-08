@@ -2,6 +2,8 @@
 
 <h2>Bienvenidos</h2>
 
+![ALTA GAMA](https://github.com/Cesar-Robledo/ALTA_GAMMA_SOMMELIER_NODE_JS/assets/130664925/2aec24d3-f5d7-4836-9831-f4d1506a0e74)
+
 Somos Lucas Amarillo, Damian Coronel, Cesar Robledo y Emilia Saenz realizando nuestro proyecto para TPF Desarrollo Web NODE-JS.
 
 🎓 Curso: [Codo a Codo 4.0](https://buenosaires.gob.ar/educacion/codocodo/el-programa)
